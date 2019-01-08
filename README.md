@@ -1,6 +1,13 @@
 # LUDUSOS
 次世代版避難訓練LUDUSOS オープンソースリポジトリ
 
+© [一般社団法人防災ガール, CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+© [Bosai Girl, CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+https://github.com/bosai-girl/LUDUSOS/blob/master/LICENSE.md
+
+
 ## 目次
 
 1. はじめに
