@@ -1,6 +1,8 @@
 # LUDUSOS
 次世代版避難訓練LUDUSOS オープンソースリポジトリ
 
+※ 本リポジトリ作成は、[青山学院大学古橋研究室](https://medium.com/furuhashilab) １期生[中井美沙の卒業研究](https://docs.google.com/document/d/1OmcSSBiv6LqP4BSLjG4_wl4cIazg5qukpauKfAyAdEQ/edit?fbclid=IwAR3O0lpKk7JfuOU8CF8omHc5f-H7CJ_ux1zv-v3diwnl8pFFShnmw8QwTNs#)の一環として実施した。
+
 <img width="200" alt="cc_by-sa_" src="https://user-images.githubusercontent.com/13146549/50822522-4585aa80-1375-11e9-8d84-8b839920c1a5.png">
 
 © [一般社団法人防災ガール, CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) , © [Bosai Girl, CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
